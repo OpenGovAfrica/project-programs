@@ -22,6 +22,7 @@ Consider a mix of event formats to reach diverse audiences:
 - **Webinars & Panel Discussions** – Awareness and education.
 - **Fundraising Galas or Campaign Launches** – Raising funds and visibility.
 - **Community Meetups** – Local or regional citizen engagement.
+- **Mentorship Programs** - 
 
 ---
 
